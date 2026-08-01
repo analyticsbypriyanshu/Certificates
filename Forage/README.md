@@ -1,7 +1,10 @@
-# Forage Certificates
+# 📜 Forage Certificates
 
-This folder contains my Forage virtual internship certificates.
+This folder contains my virtual internship and job simulation certificates completed through **Forage**.
 
 ## Certificates
 
-- ✅ TATA GenAI Powered Data Analytics Job Simulation
+| Certificate | Organization | Status |
+|-------------|-------------|--------|
+| ✅ TATA GenAI Powered Data Analytics Job Simulation | TATA × Forage | Completed |
+| ✅ Data Analytics Job Simulation | Deloitte × Forage | Completed |
